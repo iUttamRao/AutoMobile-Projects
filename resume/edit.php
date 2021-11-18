@@ -83,7 +83,7 @@ $profile_id = $row["profile_id"];
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sejal Mediratta</title>
+    <title>Uttam Rao</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>Editing Profile for <?php echo htmlentities($_SESSION["name"]) ?></h1>

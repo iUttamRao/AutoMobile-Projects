@@ -46,7 +46,7 @@ if (isset($_POST["email"]) && isset($_POST["pass"])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sejal Mediratta</title>
+    <title>Uttam Rao</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>

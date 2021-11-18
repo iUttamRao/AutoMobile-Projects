@@ -12,11 +12,11 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sejal Mediratta</title>
+    <title>Uttam Rao</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>
-        Sejal Mediratta
+        Uttam Rao
     </h1>
     <?php
     if (isset($_SESSION['error']) ) {

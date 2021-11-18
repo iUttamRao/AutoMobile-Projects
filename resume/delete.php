@@ -45,7 +45,7 @@ $ln = htmlentities($row["last_name"]);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sejal Mediratta</title>
+    <title>Uttam Rao</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>Deleting Profile</h1>

@@ -57,7 +57,7 @@ if (isset($_POST["add"])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sejal Mediratta</title>
+    <title>Uttam Rao</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>Adding Profile for <?php echo htmlentities($_SESSION["name"]); ?></h1>
